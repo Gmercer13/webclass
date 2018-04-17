@@ -15,7 +15,18 @@
 
 /* Put body attributes here */
 
+
+h1 {
+font-size: 150%;
+text-align: center;
+text-decoration: underline overline; 
+}
+img {float: right;} 
+
 body { 
 background-color:pink;
 color:black;
+font-family: "Times New Roman", Times, serif;
 }
+
+
