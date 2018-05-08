@@ -1,0 +1,40 @@
+/*
+* Grace Mercer
+* 5/7/18
+* The Box Model
+*/
+
+
+/* The universal selector */
+
+* {
+	margin: 0;
+	padding: 0;
+} 
+
+/* Put body attributes here */
+
+
+h1 {
+border: 2px dotted #808080;
+padding: 10px;
+margin: 15px 1px 1px 1px;
+}
+
+body {
+padding: 20px;
+margin: 20px;
+border: 2px dotted black;
+}
+
+p {
+padding: 10px;
+margin: 10px 1px 1px 1px;
+border: 2px dotted #808080;
+}
+
+main {
+padding: 20px;
+margin: 10px 50px 10px 5px;
+border: 2px solid black;
+}
