@@ -1,0 +1,87 @@
+00-----/* Name: Grace Mercer
+*  Date: 5/30/18 
+*  Lab: C13 Fluid Layout Exercise */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 90%;
+    background-color: #D6C7EB;
+    margin: 15px auto;
+    border: 3px solid #8A36CA;
+}
+
+h1 {
+    padding: 5px;
+    font-size: 30px;
+    margin: 15px auto;
+}
+
+h2 {
+  font-size: 20px; 
+  margin: 15px auto;
+  padding: 5px;}
+  
+h3 {font-size: 20px;
+    padding: 0px;
+}
+  
+p { font-size: 20px;
+    padding: 5px;
+    }
+
+
+header {
+    border-bottom: 3px solid #8A36CA;
+}
+
+#sidebarA {
+    width: 24%;
+    float: left ;
+    border-right: 3px solid #8A36CA;
+    padding: 10px
+    font-size: 20px;
+    height: 870px;
+}
+
+main {
+    width: 50% ;
+    float: left ;
+}
+
+#sidebarB {
+    width: 24%;
+    float: right;
+    border-left: 3px solid #8A36CA;
+    padding: 10px;
+    font-size: 20px;
+    height: 850px;
+}
+footer {
+    clear: both;
+    border-top: 3px solid #8A36CA;
+}
+p2 {
+float: right; }
+
+.Victoria {
+           margin: 15px;
+	       width: 200px; /*This tells the picture how wide to be*/
+	       height: 250px; /*This sets the height for the picture*/
+	       border: 3px solid #7c7f84; }
+
+.Victoria2 {
+		   margin: 15px;
+	       width: 200px; /*This tells the picture how wide to be*/
+	       height: 250px;
+	       float: right;
+	       border: 3px solid #7c7f84 } /*This sets the height for the picture*/
+.Victoria3 { 
+		   margin: 15px;
+	       width: 200px; /*This tells the picture how wide to be*/
+	       height: 250px;
+	       border: 3px solid #7c7f84 } /*This sets the height for the picture*/ }
+	       
